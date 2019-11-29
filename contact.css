@@ -1,0 +1,78 @@
+.abdi{
+    color: black;
+    background-color: gray;
+    width: 100%;
+    padding: 100px 0px;
+    font-family: helvetica;
+    font-size: 25px;
+}
+body{
+    background-image: url(img/contact.jpg);
+    width: 100%;
+    background-color: rgba(245, 245, 245, 0.548);
+    margin: 0em;
+    padding: 100px 0px;
+}
+h2{
+    color : black;
+    font-family: helvetica;
+    font-size: 35px;
+    margin-bottom: 30px;
+    padding-left: 30px;
+}
+.ig{
+    background-image: url(img/ig.png);
+    background-repeat: no-repeat;
+    padding-left: 50px !important;
+    background-size: 40px;
+    background-position-y: 1px;
+}
+.fb{
+    background-image: url(img/fb.png);
+    background-repeat: no-repeat;
+    padding-left: 50px !important;
+    background-size: 40px;
+    background-position-y: 1px;
+}
+.wa{
+    background-image: url(img/wa.png);
+    background-repeat: no-repeat;
+    padding-left: 50px !important;
+    background-size: 40px;
+    background-position-y: 1px;
+}
+
+/*---background----------------------*/
+.navbar{
+    width : 100%;
+    background-color: rgba(128, 128, 128, 0.24);
+	padding : 15px;
+	position: absolute;
+	top: 10px;
+}
+span{
+    font-size: 30px;
+    color: white;
+	font-family:'Arial''Arial Narrow Bold', sans-serif, sans-serif;
+	text-shadow: 1px 1px 1px #000;
+	
+}
+.nav-body{
+    width : 95%;
+    padding: 20px;
+}  
+.nav-body ul {
+   margin:0;
+   padding:0;
+   float: right;
+}
+.nav-body li {
+    display: inline;
+    font-size: 25px;
+	padding : 20px;
+	text-shadow: 1px 1px 1px #000;
+}
+a{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;

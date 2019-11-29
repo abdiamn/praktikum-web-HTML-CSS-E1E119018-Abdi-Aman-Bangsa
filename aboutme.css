@@ -1,0 +1,92 @@
+body {
+    color: #222222;
+    font-size: 1em;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.content-footer,
+.masthead-heading,
+.masthead-intro {
+  text-align: center;
+}
+
+.masthead {
+  padding: 6em 0;
+  background-image: url(img/tugu.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.masthead-intro {
+    margin-bottom: 0.1em;
+    font-size: 2em;
+    color: #ffffff;
+}
+
+.masthead-heading {
+    margin-top: -0.2em;
+    font-weight: bold;
+    font-size: 6em;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.details {
+    max-width: 38em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
+}
+
+.details > p {
+    font-weight: 300;
+    letter-spacing: 0.05em;
+}
+
+.details > h2 {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 2em 0 1em 0;
+}
+
+section > h1 {
+    margin-top: 2em;
+}
+/*---background----------------------*/
+.navbar{
+    width : 100%;
+    background-color: rgba(128, 128, 128, 0.24);
+	padding : 15px;
+	position: absolute;
+	top: 10px;
+}
+span{
+    font-size: 30px;
+    color: white;
+	font-family:'Arial''Arial Narrow Bold', sans-serif, sans-serif;
+	text-shadow: 1px 1px 1px #000;
+	
+}
+.nav-body{
+    width : 95%;
+    padding: 20px;
+}  
+.nav-body ul {
+   margin:0;
+   padding:0;
+   float: right;
+}
+.nav-body li {
+    display: inline;
+    font-size: 25px;
+	padding : 20px;
+	text-shadow: 1px 1px 1px #000;
+}
+a{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
