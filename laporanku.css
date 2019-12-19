@@ -1,0 +1,44 @@
+.kiri {
+    width: 47%;
+    height: 850px;
+    float: left;
+    background-color: rgb(255, 209, 152);
+    background-repeat: no-repeat;
+    border: 5px outset rgb(243, 190, 120);
+    padding: 10px;
+    margin-top: 30px;
+}
+.kanan {
+    width: 47%;
+    height: 710px;
+    float: right;
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+    border: 5px inset rgb(130, 185, 167);
+    padding: 10px;
+}
+h2{
+    font-style: italic;
+}
+a {
+    background-color: transparent;
+    font-style: oblique;
+}
+.tengah {
+    width: 47%;
+    background-color: indianred;
+}
+.lpr {
+    width: 625px;
+    height: 120px;
+    float: right;
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+    border: 5px inset rgb(130, 185, 167);
+    padding: 10px;
+    margin-bottom: 20px;
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
